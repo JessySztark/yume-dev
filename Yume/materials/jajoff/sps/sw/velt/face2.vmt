@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "jajoff\sps\SW\velt/face"
+	"$bumpmap" "jajoff\sps\SW\velt\normal"
+	"$nodecal" "1"
+
+	"$lightwarptexture" "jajoff\sps\SW\velt/facewarp"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "jajoff\sps\SW\velt\phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

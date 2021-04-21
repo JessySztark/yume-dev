@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "jajoff\sps\SW\velt\Face"
+	"$bumpmap" "jajoff\sps\SW\velt\Face_n"
+	"$normalmap" "jajoff\sps\SW\velt\Face_n"
+}
