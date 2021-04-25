@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "Star Wars Lightsabers"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "weapon",
+	"tags": 
+	[
+		"fun",
+		"comic"
+	]
+}"
+}

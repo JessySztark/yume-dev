@@ -1,0 +1,33 @@
+Changing Stance:
+	To change stance, hold down your USE key and press PRIMARY FIRE. You will cycle through the stances you have available. Each stance has it's own set of directional attacks
+	 
+Changing Form:
+	Each form has a unique play style described by it's name. To open the form menu, hold down your USE key and press RELOAD. You can select it from the menu.
+	Each form has 3 stances and 1 unique heavy attack
+
+Light Attacks: 
+	Sabers have 3 directional attacks. Move left, right, or forward and press PRIMARY ATTACK to do a different directional attack.
+
+Heavy Attacks:
+	Hold down your USE key and press ( or hold ) ALTERNATE FIRE to perform a heavy attack. Heavy attacks do more damage but take longer to perform, leaving you vulnerable.
+	
+Blocking:
+	Hold down your WALK key ( ALT by default ) to shift to a blocking pose. You can block saber damage and deflect bullet fire back to where you are aiming as long as it comes from the front.
+	Blocking will drain your Force/Stamina after success. Heavy attacks may break your block if you do not have enough energy left to block it
+	
+Aerial Attacks:
+	Perform an aerial attack by jumping, holding a directional key ( left, right, or forward ) and attacking. 
+	Directional attacks are unique to each form
+	You will have to regain your balance after landing from an attack. Although you have high mobility, remember you will lose the advantage after the strike!
+
+Parrying:
+	You can parry while blocking if you press your PRIMARY FIRE button just as an attack is about to land. Parrying takes more energy and you can not parry heavy attacks
+
+Devestators:
+	Change devestators by holding your WALK key and pressing RELOAD. 
+	Channel your energy with meditation or channel hatred to ovecharge your force meter
+	You may perform a devestator by holding your WALK key and pressing SECONDARY FIRE. You need to be 100% Overcharged for it to work
+
+Locking On:
+	You can lock onto targets at a certain distance to focus your attacks on them by pressing WALK and USE
+	Becareful, move too far and you'll lose your focus!
